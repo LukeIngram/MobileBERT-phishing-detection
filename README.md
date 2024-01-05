@@ -1,2 +1,2 @@
-# llama2-phish-detection
-Fine-tuning and application of Meta's LLaMA 2 for advanced phishing detection.
+# llm-sms-phishing-detection
+Fine-tuning and application LLMs for SMS phishing detection. 
