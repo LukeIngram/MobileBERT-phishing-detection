@@ -1,2 +1,2 @@
-# llm-sms-phishing-detection
-Fine-tuning and application LLMs for SMS phishing detection. 
+# MobileBERT-phishing-detection
+Fine-tuning and application of Google's MobileHBERT for SMS and email phishing detection. 
